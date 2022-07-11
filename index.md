@@ -21,4 +21,11 @@
     * __Example:__ I was at home this weekend.
     * __Example:__ You/We/They were in the shop last month.
     * __Example:__ He/She/It was in a party last night.
-
+2. __Negative form:__ Person + verb to be in past + NOT + X:
+    * __Example:__ I wasn't tired yesterday.
+    * __Example:__ You/We/They were not at home this morning.
+    * __Example:__ He/She/It wasn't at the park in the afternoon.
+3. __Interrogative form:__ Verb to be in past + person + X + ?:
+    * __Example:__ Was I in this picture?
+    * __Example:__ Were You/We/They in the office today?
+    * __Example:__ Was He/She/It in the bathroom?
