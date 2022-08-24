@@ -38,3 +38,19 @@
 INFINITIVE | PRESENT CONTINUOUS | PAST SIMPLE
 :--------- | :----------------: | ----------:
 to play    | playing            | played
+to walk    | walking            | walked
+to ride    | riding             | rode
+to smile   | slmiling           | smiled
+to talk    | talking            | talked
+to eat     | eating             | ate
+to swim    | swimming           | swam
+to sleep   | sleeping           | slept
+to fly     | flying             | flied
+to read    | reading            | read
+to dream   | dreaming           | dreamt
+to live    | living             | lived
+to call    | calling            | called
+to draw    | drawing            | drawed
+to shout   | shouting           | shouted
+to cry     | crying             | cried
+to write   |writing             | writed
