@@ -1,6 +1,7 @@
 # Seniors 3B
 
 ## Simple Past🌟
+
 1. __Affirmative form:__ Person + Verb in past simple + X:
     * __Example:__ I/You/We/They/He/She/It shouted when we saw a rat.💥
 2. __Negative form:__ Person + Auxiliary in past simple + NOT + Verb in infinitive + X:
@@ -9,6 +10,7 @@
     * __Example:__ Did I/You/We/They/He/She/It talk with your grandma?💥
 
 ### Actions or events in the past🌟
+
 * I ran in the park today.💫 
 * My mom didn't clean the house yesterday.
 * Did my dad wake up at 10 am?
@@ -17,6 +19,7 @@
 * Did you remenber your homework?.💫 
 
 ## Verb to be on simple past🌟
+
 1. __Affirmative form:__ Person + verb to be in past + X:
     * __Example:__ I was at home this weekend.💥
     * __Example:__ You/We/They were in the shop last month.💥
@@ -29,3 +32,9 @@
     * __Example:__ Was I in this picture?
     * __Example:__ Were You/We/They in the office today?💥
     * __Example:__ Was He/She/It in the bathroom?💥
+
+## List of verbs
+
+INFINITIVE | PRESENT CONTINUOUS | PAST SIMPLE
+:--------- | :----------------: | ----------:
+to play    | playing            | played
