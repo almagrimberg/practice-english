@@ -53,4 +53,7 @@ to call    | calling            | called
 to draw    | drawing            | drawed
 to shout   | shouting           | shouted
 to cry     | crying             | cried
-to write   |writing             | writed
+to write   | writing            | writed
+to make    | making             | maked
+to clean   | cleaning           | cleaned
+to take    | taking             | taked
