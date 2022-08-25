@@ -35,25 +35,25 @@
 
 ## List of verbs
 
-INFINITIVE | PRESENT CONTINUOUS | PAST SIMPLE
-:--------- | :----------------: | ----------:
-to play    | playing            | played
-to walk    | walking            | walked
-to ride    | riding             | rode
-to smile   | slmiling           | smiled
-to talk    | talking            | talked
-to eat     | eating             | ate
-to swim    | swimming           | swam
-to sleep   | sleeping           | slept
-to fly     | flying             | flied
-to read    | reading            | read
-to dream   | dreaming           | dreamt
-to live    | living             | lived
-to call    | calling            | called
-to draw    | drawing            | drawed
-to shout   | shouting           | shouted
-to cry     | crying             | cried
-to write   | writing            | writed
-to make    | making             | maked
-to clean   | cleaning           | cleaned
-to take    | taking             | taked
+INFINITIVE | PAST SIMPLE
+:--------- | ----------:
+to play    | played
+to walk    | walked
+to ride    | rode
+to smile   | smiled
+to talk    | talked
+to eat     | ate
+to swim    | swam
+to sleep   | slept
+to fly     | flied
+to read    | read
+to dream   | dreamt
+to live    | lived
+to call    | called
+to draw    | drawed
+to shout   | shouted
+to cry     | cried
+to write   | writed
+to make    | maked
+to clean   | cleaned
+to take    | taked
