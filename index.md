@@ -43,9 +43,9 @@ ride       | rode
 smile      | smiled
 talk       | talked
 eat        | ate
-swim       | swam
+swim       | swung
 sleep      | slept
-fly        | flied
+fly        | flew
 read       | read
 dream      | dreamed
 live       | lived
@@ -57,3 +57,16 @@ write      | wrote
 make       | made
 clean      | cleaned
 take       | took
+do         |
+go         |
+see        |
+have       |
+get        |
+run        |
+jump       |
+sing       |
+give       |
+be         |
+say        |
+sit        |
+drink      |
