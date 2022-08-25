@@ -35,25 +35,25 @@
 
 ## List of verbs
 
-INFINITIVE | PAST SIMPLE
+BASE FORM  | PAST SIMPLE
 :--------- | ----------:
-to play    | played
-to walk    | walked
-to ride    | rode
-to smile   | smiled
-to talk    | talked
-to eat     | ate
-to swim    | swam
-to sleep   | slept
-to fly     | flied
-to read    | read
-to dream   | dreamt
-to live    | lived
-to call    | called
-to draw    | drawed
-to shout   | shouted
-to cry     | cried
-to write   | writed
-to make    | maked
-to clean   | cleaned
-to take    | taked
+play       | played
+walk       | walked
+ride       | rode
+smile      | smiled
+talk       | talked
+eat        | ate
+swim       | swam
+sleep      | slept
+fly        | flied
+read       | read
+dream      | dreamt
+live       | lived
+call       | called
+draw       | drawed
+shout      | shouted
+cry        | cried
+write      | writed
+make       | maked
+clean      | cleaned
+take       | taked
