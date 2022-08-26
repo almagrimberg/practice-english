@@ -37,36 +37,45 @@
 
 BASE FORM  | PAST SIMPLE
 :--------- | ----------:
-play       | played
-walk       | walked
-ride       | rode
-smile      | smiled
-talk       | talked
-eat        | ate
-swim       | swung
-sleep      | slept
-fly        | flew
-read       | read
-dream      | dreamed
-live       | lived
-call       | called
-draw       | drew
-shout      | shouted
-cry        | cried
-write      | wrote
-make       | made
-clean      | cleaned
-take       | took
-do         |
-go         |
-see        |
-have       |
-get        |
-run        |
-jump       |
-sing       |
-give       |
-be         |
-say        |
-sit        |
-drink      |
+(R) play   | played
+(R) walk   | walked
+(I) ride   | rode
+(R) smile  | smiled
+(I) talk   | talked
+(I) eat    | ate
+(I) swim   | swung
+(I) sleep  | slept
+(I) fly    | flew
+(I) read   | read
+(R) dream  | dreamed
+(R) live   | lived
+(R) call   | called
+(I) draw   | drew
+(R) shout  | shouted
+(R) cry    | cried
+(I) write  | wrote
+(I) make   | made
+(R) clean  | cleaned
+(I) take   | took
+(I) do     | 
+(I) go     | 
+(I) see    | 
+(I) have   | 
+(I) get    | 
+(I) run    | 
+(R) jump   | 
+(I) sing   | 
+(I) give   | 
+(I) be     | 
+(I) say    | 
+(I) sit    | 
+(I) drink  | 
+(R) learn  | 
+(R) brush  | 
+(R) listen | 
+(R) ask    | 
+(R) answer | 
+(R) dance  | 
+(R) help   | 
+(R) study  | 
+(R) look   | 
