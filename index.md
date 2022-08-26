@@ -79,3 +79,9 @@ BASE FORM  | PAST SIMPLE
 (R) help   | helped
 (R) study  | studied
 (R) look   | looked
+(R) like   | liked
+(R) brush  | brushed
+(R) paint  | painted
+(R) apload | aploaded
+(R) touch  | touched
+(R) create | created
