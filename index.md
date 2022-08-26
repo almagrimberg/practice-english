@@ -85,3 +85,5 @@ BASE FORM  | PAST SIMPLE
 (R) apload | aploaded
 (R) touch  | touched
 (R) create | created
+(I) wake   | woke
+(R) stop   | stopped
