@@ -41,7 +41,7 @@ BASE FORM  | PAST SIMPLE
 (R) walk   | walked
 (I) ride   | rode
 (R) smile  | smiled
-(I) talk   | talked
+(R) talk   | talked
 (I) eat    | ate
 (I) swim   | swung
 (I) sleep  | slept
