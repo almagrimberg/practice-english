@@ -57,25 +57,25 @@ BASE FORM  | PAST SIMPLE
 (I) make   | made
 (R) clean  | cleaned
 (I) take   | took
-(I) do     | 
-(I) go     | 
-(I) see    | 
-(I) have   | 
-(I) get    | 
-(I) run    | 
-(R) jump   | 
-(I) sing   | 
-(I) give   | 
-(I) be     | 
-(I) say    | 
-(I) sit    | 
-(I) drink  | 
-(R) learn  | 
-(R) brush  | 
-(R) listen | 
-(R) ask    | 
-(R) answer | 
-(R) dance  | 
-(R) help   | 
-(R) study  | 
-(R) look   | 
+(I) do     | did
+(I) go     | went
+(I) see    | saw
+(I) have   | had
+(I) get    | got
+(I) run    | ran
+(R) jump   | jumped
+(I) sing   | sang
+(I) give   | gave
+(I) be     | was/were
+(I) say    | said
+(I) sit    | sat
+(I) drink  | drank
+(R) learn  | learned
+(R) brush  | brushed
+(R) listen | listened
+(R) ask    | asked
+(R) answer | answered
+(R) dance  | danced
+(R) help   | helped
+(R) study  | studied
+(R) look   | looked
